@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Camilo Muñoz Tenorio
 
-<!--
-**camilotenorio1234/camilotenorio1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Engineer** passionate about software development, robotics, and AI-based health solutions.  
+Currently focused on **Python backend development**, **computer vision**, and **robotic assistive systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+- **Languages:** Python, Java, JavaScript
+- **Frameworks:** Django, Flask, FastAPI, SpringBoot
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Docker, Git, VSCode, Postman
+- **AI / CV:** OpenCV, MediaPipe, TensorFlow, Scikit-learn, PyTorch
+
+---
+
+### 📌 Highlighted Projects
+- [🧠 SANTI – Interactive Therapy System with NAO Robot](https://github.com/camilotenorio1234)  
+  Assistive system for physical therapy using computer vision + robotics.
+
+- [🦵 Postural Stabilometry Device](https://github.com/camilotenorio1234)  
+  Full hardware + software solution for musculoskeletal diagnostics.
+
+- [🛠️ Django Task Manager API](https://github.com/camilotenorio1234/django-taskmanager-api)  
+  Robust backend with JWT, PostgreSQL & Docker.
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/juan-camilo-muñoz-tenorio)
+- [Portfolio Website](#)
+- [Email](mailto:juanca1926@gmail.com)
