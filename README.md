@@ -38,26 +38,17 @@
 
 ---
 
-### 📌 Featured Projects
-- **SANTI – Interactive Therapy (NAO Robot)** — CV + robotics platform supporting assisted therapies.  
-  `FastAPI · Flask · OpenCV · MediaPipe · SQLAlchemy · MySQL · Flet`  
-  🔗 Repo/Portfolio: [link pending](#repo-pendiente)
+### 🚀 Featured Projects (public)
+- **Django Task Manager API** — REST backend with **DRF**, JWT (`simplejwt`), **PostgreSQL** and **Docker**.  
+  Repo: https://github.com/camilotenorio1234/django-taskmanager-api
 
-- **Postural Stabilometry Device** — Hardware + software for musculoskeletal posture analysis.  
-  `Python · Flask · MySQL · Onshape · Arduino · OpenCV`  
-  🔗 Repo/Portfolio: [link pending](#repo-pendiente)
+- **Flask User API** — Microservice with **Flask + Flask-RESTful**, **SQLAlchemy**, **MySQL** and JWT. Modular codebase, tests with **Pytest**.  
+  Repo: https://github.com/camilotenorio1234/Flask_UserAPI
 
-- **Django Task Manager API** — REST backend with JWT, PostgreSQL & Docker.  
-  `DRF · simplejwt · PostgreSQL · Docker`  
-  🔗 Repo: https://github.com/camilotenorio1234/django-taskmanager-api
+- **FrameExtractor** — CLI in **Python + OpenCV** to extract frames from video (OOP + tests with **Pytest**).  
+  Repo: https://github.com/camilotenorio1234/FrameExtractor
 
-- **Flask User API** — Microservice with SQLAlchemy, JWT and tests.  
-  `Flask · Flask-RESTful · SQLAlchemy · MySQL · Pytest`  
-  🔗 Repo: https://github.com/camilotenorio1234/Flask_UserAPI
-
-- **FrameExtractor** — CLI to extract frames from video (OOP + tests).  
-  `Python · OpenCV · Pytest`  
-  🔗 Repo: https://github.com/camilotenorio1234/FrameExtractor
+> 📝 More projects: https://github.com/camilotenorio1234
 
 ---
 
@@ -75,6 +66,5 @@
 ---
 
 ### 📫 Let’s Connect
-- **LinkedIn:** https://linkedin.com/in/juan-camilo-muñoz-tenorio  
-- **Portfolio:** https://camilotenorio1234.github.io  <!-- cámbialo si usas otro -->
-- **Email:** juanca1926@gmail.com
+- LinkedIn: https://linkedin.com/in/juan-camilo-muñoz-tenorio  
+- Email: juanca1926@gmail.com
