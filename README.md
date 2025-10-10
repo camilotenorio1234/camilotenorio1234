@@ -55,19 +55,20 @@
 ### 🏅 Certifications & Events (selected)
 
 - **Python Essentials 1** — Cisco (Jul 2023)  
-  📄 PDF: [certs/python-essentials-1-cisco-2023.pdf](certs/python-essentials-1-cisco-2023.pdf)
+  📄 PDF: [certs/Python_Essentials_1_certificate_juanca1926-gmail-com_4353512e-6312-49dd-b311-746c40626d52.pdf](certs/Python_Essentials_1_certificate_juanca1926-gmail-com_4353512e-6312-49dd-b311-746c40626d52.pdf)
 
 - **Cybersecurity Essentials** — Cisco Networking Academy (Apr 2023)  
-  📄 PDF: [certs/cybersecurity-essentials-cisco-2023.pdf](certs/cybersecurity-essentials-cisco-2023.pdf)
+  📄 PDF (v1): [certs/Cybersecurity_Essentials%202023.pdf](certs/Cybersecurity_Essentials%202023.pdf)  
+  📄 PDF (v2): [certs/Cybersecurity_Essentials_certificate_juanca1926-gmail-com_89ad219d-2033-43cd-b3a2-29771f4f2cf5.pdf](certs/Cybersecurity_Essentials_certificate_juanca1926-gmail-com_89ad219d-2033-43cd-b3a2-29771f4f2cf5.pdf)
 
 - **Introduction to Cybersecurity** — Cisco (Jul 2022)  
-  📄 PDF: [certs/intro-to-cybersecurity-cisco-2022.pdf](certs/intro-to-cybersecurity-cisco-2022.pdf)
+  📄 PDF: [certs/Introduction_to_Cybersecurity_certificate_juanca1926-gmail-com_4022ca39-d4b5-4a35-a7ae-0babad6d6d17.pdf](certs/Introduction_to_Cybersecurity_certificate_juanca1926-gmail-com_4022ca39-d4b5-4a35-a7ae-0babad6d6d17.pdf)
 
 - **NASA Space Apps Challenge** — Participant (Oct 2024)  
-  📄 PDF: [certs/nasa-space-apps-2024.pdf](certs/nasa-space-apps-2024.pdf)
+  📄 PDF: [certs/NASA%20Space%20Apps%20Challenge_compressed.pdf](certs/NASA%20Space%20Apps%20Challenge_compressed.pdf)
 
 - **Robotic People Fest – Aerospace 2024** — Participant  
-  📄 PDF: [certs/robotic-people-fest-2024.pdf](certs/robotic-people-fest-2024.pdf)
+  📄 PDF: [certs/Participaci%C3%B3n%20Robotic%20People%20Fest%20Aeroespacial%202024%20(1)-47.pdf](certs/Participaci%C3%B3n%20Robotic%20People%20Fest%20Aeroespacial%202024%20(1)-47.pdf)
 
 ---
 
