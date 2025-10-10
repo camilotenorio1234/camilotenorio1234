@@ -53,15 +53,21 @@
 ---
 
 ### 🏅 Certifications & Events (selected)
-- Software Registration — **SANTI Assistive System** (Reg. **13-100-342**, Nov 2024)
-- **Design Thinking** — IEP (Aug 2025)
-- **Intro to Microsoft Azure Cloud Services** — Microsoft (May 2025) — ID: `OHJD1Z00KRGJ`
-- **Python Essentials 1** — Cisco (Jul 2023)
-- **Cybersecurity Essentials** — Cisco Networking Academy (Apr 2023)
-- **NASA Space Apps Challenge** — Participant (Oct 2024)
-- **Robotic People Fest – Aerospace 2024** — Participant
 
-> Si quieres, puedo añadir enlaces directos a las credenciales públicas.
+- **Python Essentials 1** — Cisco (Jul 2023)  
+  📄 PDF: [certs/python-essentials-1-cisco-2023.pdf](certs/python-essentials-1-cisco-2023.pdf)
+
+- **Cybersecurity Essentials** — Cisco Networking Academy (Apr 2023)  
+  📄 PDF: [certs/cybersecurity-essentials-cisco-2023.pdf](certs/cybersecurity-essentials-cisco-2023.pdf)
+
+- **Introduction to Cybersecurity** — Cisco (Jul 2022)  
+  📄 PDF: [certs/intro-to-cybersecurity-cisco-2022.pdf](certs/intro-to-cybersecurity-cisco-2022.pdf)
+
+- **NASA Space Apps Challenge** — Participant (Oct 2024)  
+  📄 PDF: [certs/nasa-space-apps-2024.pdf](certs/nasa-space-apps-2024.pdf)
+
+- **Robotic People Fest – Aerospace 2024** — Participant  
+  📄 PDF: [certs/robotic-people-fest-2024.pdf](certs/robotic-people-fest-2024.pdf)
 
 ---
 
