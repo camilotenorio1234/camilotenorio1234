@@ -19,14 +19,14 @@ Daily stack & ops: 3D printing/scanning (**Bambu Lab A1**, **Creality K1 Max ×2
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)][PostgreSQL]
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)][MySQL]
 
-[Python]: #
-[FastAPI]: #
-[Flask]: #
-[Django]: #
-[OpenCV]: #
-[Docker]: #
-[PostgreSQL]: #
-[MySQL]: #
+[Python]: https://www.python.org/
+[FastAPI]: https://fastapi.tiangolo.com/
+[Flask]: https://flask.palletsprojects.com/
+[Django]: https://www.djangoproject.com/
+[OpenCV]: https://opencv.org/
+[Docker]: https://www.docker.com/
+[PostgreSQL]: https://www.postgresql.org/
+[MySQL]: https://www.mysql.com/
 
 ---
 
