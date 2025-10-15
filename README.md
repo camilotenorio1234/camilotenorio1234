@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Juan Camilo Muñoz Tenorio
 
-**Systems Engineer** specializing in Python backends and data pipelines (FastAPI, Flask, Django), with a strong focus on **computer vision** and **robotics** for assistive-health solutions. I’ve led the end-to-end development of **SANTI** (NAO V5–based interactive therapy system) and built a low-cost **stabilometry device** for postural analysis (software registration **13-100-342**).
+**Systems Engineer** specializing in Python backends and data pipelines (FastAPI, Flask, Django, SQLAlchemy), with a strong focus on **computer vision** and **robotics** for assistive-health solutions. I led the end-to-end development of **SANTI**—an interactive therapy platform on **NAO V5**—and built a low-cost **stabilometry device** for postural analysis (software registration **13-100-342**). My CV/ML toolbox includes **OpenCV**, **MediaPipe**, **DepthAI/OAK-D**, **NumPy**, **Pandas**, **scikit-learn**, **TensorFlow**, and **PyTorch**.
 
-Currently, I’m a **Laboratory Assistant at Universidad Santiago de Cali**, keeping five spaces up and running in the new Technology Building:
-- **Luigi** (programming/technical dev) and **Atari** (2D/3D modeling)
+I’m currently a **Laboratory Assistant and member of the robotics lab** at **Universidad Santiago de Cali**, keeping five spaces operational in the new Technology Building:
+- **Luigi** (programming / technical development) and **Atari** (2D/3D modeling)
 - **Tetris** (3D printing & 3D scanning) and **MoCap** (motion capture)
 - **360° room** (projection & audio)
 
-Daily stack & ops: 3D printing/scanning (**Bambu Lab A1**, **Creality K1 Max ×2**, **Anycubic resin ×2**, **EinStar scanner**); motion capture with **Vicon Vero 2** + **Shogun Live** → **Unreal Engine**; AV for the 360° room using **Resolume Arena**, **Dante**, **Reaper**, **Q-SYS**; plus preventive maintenance, asset inventory, and quick SOPs for students & faculty.
+Daily stack & ops: 3D printing/scanning (**Bambu Lab A1**, **Creality K1 Max ×2**, **Anycubic resin ×2**, **EinStar**), motion capture with **Vicon Vero 2** + **Shogun Live** → **Unreal Engine**, AV workflows in **Resolume Arena**, **Dante**, **Reaper**, **Q-SYS**, plus preventive maintenance, asset inventory, and quick SOPs for students and faculty.
+
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)][Python]
