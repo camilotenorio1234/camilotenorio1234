@@ -10,14 +10,14 @@ Currently, I’m a **Laboratory Assistant at Universidad Santiago de Cali**, kee
 Daily stack & ops: 3D printing/scanning (**Bambu Lab A1**, **Creality K1 Max ×2**, **Anycubic resin ×2**, **EinStar scanner**); motion capture with **Vicon Vero 2** + **Shogun Live** → **Unreal Engine**; AV for the 360° room using **Resolume Arena**, **Dante**, **Reaper**, **Q-SYS**; plus preventive maintenance, asset inventory, and quick SOPs for students & faculty.
 
 
-[![Python](https://img.shields.io/badge/Python-3776AB)][]
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688)][]
-[![Flask](https://img.shields.io/badge/Flask-000000)][]
-[![Django](https://img.shields.io/badge/Django-092E20)][]
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8)][]
-[![Docker](https://img.shields.io/badge/Docker-2496ED)][]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)][]
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1)][]
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)][Python]
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)][FastAPI]
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)][Flask]
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)][Django]
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)][OpenCV]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)][Docker]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)][PostgreSQL]
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)][MySQL]
 
 [Python]: #
 [FastAPI]: #
