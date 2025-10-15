@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Juan Camilo Muñoz Tenorio
 
-**Systems Engineer** focused on backend with **Python**, **computer vision**, and **robotic assistive systems**.
+**Systems Engineer** focused on **Python backends**, **computer vision**, and **robotic assistive systems**.  
+Currently supporting the Technology Building labs at **Universidad Santiago de Cali** (Luigi, Atari, Tetris, MoCap, 360° room) and building robust APIs and CV pipelines.
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB)][]
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688)][]
